@@ -1,0 +1,9 @@
+**/cmake-build-*/
+**/cmake-build*/
+build/
+out/
+
+# CLion
+*.iml
+.idea/
+.agent/
