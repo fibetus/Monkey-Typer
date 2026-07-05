@@ -128,8 +128,8 @@ Both are fetched automatically via CMake FetchContent.
 
 ## License
 
-Educational project — all rights reserved.
+Educational project — all rights reserved. It was developed for 2023/2024 PJC course at PJAIT.
 
 ---
 
-*Created with ❤️ and C++20*
+*Whole project was hand written by me. The commit hisotry is in another repo, because I had to get rid of the private information and protected data.
